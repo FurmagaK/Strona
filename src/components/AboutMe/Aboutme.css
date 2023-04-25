@@ -1,0 +1,59 @@
+.AboutMe_Main {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    min-height: 100vh;
+}
+.left{
+    flex:1;
+    background-color: #373F51;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.questions {
+    font-size: max(1.5vw, 10px);
+    color: #FFF;
+    margin-bottom: 2vw;
+    padding: 0;
+}
+
+.answers {
+    font-size: max(2.5vw, 15px);
+    color: #A09BE7;
+    margin: 0;
+    padding: 0;
+}
+.right{
+    flex: 3;
+    background-color: #CECECE;
+    background-image: url('/src/assets/background.png');
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.top_text{
+    flex: .5;
+    display: flex;
+    align-items: center;
+    font-size: max(4vw, 20px);
+}
+.about_photo {
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+.about_photo > img {
+    width: max(25vw, 250px);
+}
+.bottom_text{
+    flex: 1;
+    display: flex;
+    font-size: max(1.7vw, 12px);
+    text-align: center;
+    padding-left: 30%;
+    padding-right: 30%;
+}
