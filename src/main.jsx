@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import Sidebar from './components/Sidebar/Sidebar.jsx'
-import App from '../App.jsx'
+import App from './App.jsx'
 import Aboutme from './components/AboutMe/Aboutme.jsx'
 import './index.css'
 import {

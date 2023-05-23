@@ -20,7 +20,7 @@ function Aboutme() {
                         <p>Hi! I'm Kacper</p>
                     </div>
                     <div className='about_photo'>
-                        <img src='/pictures/aboutMe.jpg'></img>
+                        <img src='../pictures/aboutMe.jpg'></img>
                     </div>
                     <div className='bottom_text'>
                         <p>

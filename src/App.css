@@ -55,7 +55,7 @@
 }
 .instagram {
   flex: 2;
-  background-image: url('/pictures/background.png');
+  background-image: url('../pictures/background.png');
   background-color: #373F51;
   background-repeat: initial;
   display: grid;
