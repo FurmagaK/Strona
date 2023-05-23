@@ -41,14 +41,14 @@ function App() {
           </div>
         </div>
         <div className='instagram' >
-          <a href='https://www.instagram.com/p/Cq57ojpsNQP/' className='Instagram-picture1'><img src="/src/assets/instagrampics/1.png" id="inspic" ></img></a>
-          <a href='https://www.instagram.com/p/Cqp6QKrs2dJ/' className='Instagram-picture2'><img src="/src/assets/instagrampics/2.png"  id="inspic" ></img></a>
-          <a href='https://www.instagram.com/p/CqTmmfcDdBB/' className='Instagram-picture3'><img src="/src/assets/instagrampics/3.png"  id="inspic" ></img></a>
-          <a href='https://www.instagram.com/p/ClBRx06Dxuw/' className='Instagram-picture4'><img src="/src/assets/instagrampics/4.png"  id="inspic" ></img></a>
-          <a href='https://www.instagram.com/p/Ckp1FbpDsne/' className='Instagram-picture5'><img src="/src/assets/instagrampics/5.png"  id="inspic" ></img></a>
-          <a href='https://www.instagram.com/p/Cji4Bu8D4sS/' className='Instagram-picture6'><img src="/src/assets/instagrampics/6.png"  id="inspic"></img></a>
-          <a href='https://www.instagram.com/p/ChkOzuEDX5k/' className='Instagram-picture7'><img src="/src/assets/instagrampics/7.png"  id="inspic"></img></a>
-          <a href='https://www.instagram.com/p/CiIvKe4DgsP/' className='Instagram-picture8'><img src="/src/assets/instagrampics/8.png"  id="inspic"></img></a>
+          <a href='https://www.instagram.com/p/Cq57ojpsNQP/' target="_blank" rel="noreferrer" className='Instagram-picture1'><img src="/pictures/instagrampics/1.png" id="inspic" ></img></a>
+          <a href='https://www.instagram.com/p/Cqp6QKrs2dJ/' target="_blank" rel="noreferrer" className='Instagram-picture2'><img src="/pictures/instagrampics/2.png"  id="inspic" ></img></a>
+          <a href='https://www.instagram.com/p/CqTmmfcDdBB/' target="_blank" rel="noreferrer" className='Instagram-picture3'><img src="/pictures/instagrampics/3.png"  id="inspic" ></img></a>
+          <a href='https://www.instagram.com/p/ClBRx06Dxuw/' target="_blank" rel="noreferrer" className='Instagram-picture4'><img src="/pictures/instagrampics/4.png"  id="inspic" ></img></a>
+          <a href='https://www.instagram.com/p/Ckp1FbpDsne/' target="_blank" rel="noreferrer" className='Instagram-picture5'><img src="/pictures/instagrampics/5.png"  id="inspic" ></img></a>
+          <a href='https://www.instagram.com/p/Cji4Bu8D4sS/' target="_blank" rel="noreferrer" className='Instagram-picture6'><img src="/pictures/instagrampics/6.png"  id="inspic"></img></a>
+          <a href='https://www.instagram.com/p/ChkOzuEDX5k/' target="_blank" rel="noreferrer" className='Instagram-picture7'><img src="/pictures/instagrampics/7.png"  id="inspic"></img></a>
+          <a href='https://www.instagram.com/p/CiIvKe4DgsP/' target="_blank" rel="noreferrer" className='Instagram-picture8'><img src="/pictures/instagrampics/8.png"  id="inspic"></img></a>
         </div>
       </div>
 

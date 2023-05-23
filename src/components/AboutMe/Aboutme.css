@@ -21,7 +21,7 @@
 }
 
 .answers {
-    font-size: max(2.5vw, 15px);
+    font-size: max(1.8vw, 15px);
     color: #A09BE7;
     margin: 0;
     padding: 0;
@@ -29,7 +29,7 @@
 .right{
     flex: 3;
     background-color: #CECECE;
-    background-image: url('/src/assets/background.png');
+    background-image: url('/pictures/background.png');
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -39,7 +39,7 @@
     flex: .5;
     display: flex;
     align-items: center;
-    font-size: max(4vw, 20px);
+    font-size: max(3.3vw, 20px);
 }
 .about_photo {
     flex: 1;
@@ -48,11 +48,17 @@
 }
 .about_photo > img {
     width: max(25vw, 250px);
+    transform: scale(100%);
+    transition: .7s ease;
+}
+.about_photo > img:hover {
+        transform: scale(110%);
+        transition: .7s ease;
 }
 .bottom_text{
     flex: 1;
     display: flex;
-    font-size: max(1.7vw, 12px);
+    font-size: max(1.5vw, 12px);
     text-align: center;
     padding-left: 30%;
     padding-right: 30%;
