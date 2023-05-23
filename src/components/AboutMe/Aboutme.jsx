@@ -7,7 +7,7 @@ function Aboutme() {
             <div className="AboutMe_Main">
                 <div className="left">
                     <p className='questions'>favorite cartoon? </p>
-                    <p className='answers'>courage the coward</p>
+                    <p className='answers'>courage the cowardly dog</p>
                     <p className='questions'>pets?</p>
                     <p className='answers'>7 and counting</p>
                     <p className='questions'>stress level </p>
@@ -27,7 +27,7 @@ function Aboutme() {
                             I'M AN ILLUSTRATOR FROM POLAND CURRENTLY
                             STUDYING GRAPHIC DESIGN AT WSTI IN
                             KATOWICE.<n/>
-                            I MAINLY FOCUS ON ILLUSTRATIONS AND
+                             I MAINLY FOCUS ON ILLUSTRATIONS AND
                             ANIMATIONS BUT I'M NOT LIMITED TO THAT.
                             STYLES I'M WORKING IN ARE: RUBBER
                             HOSE (CLASSIC 1930'S CARTOONS), OLD
